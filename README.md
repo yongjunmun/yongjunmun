@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="https://raw.githubusercontent.com/yongjunmun/yongjunmun/main/assets/portrait-dots.png" width="420" alt="Halftone dot rendering of Yong Jun Mun on the coast, shading his eyes against the sun">
+
 # Yong Jun Mun
 
 ### I make automation easier to recover, verify, and trust.
