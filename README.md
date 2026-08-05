@@ -7,7 +7,7 @@
 Mechatronics Systems undergraduate working where equipment, controls, operations and software meet.<br>
 Currently an Automation Engineer Intern in semiconductor manufacturing — AMHS, OHT/OHV, stocker and feeder systems.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-yongjunmun.github.io-334155?style=for-the-badge&labelColor=0f172a&logo=github&logoColor=white)](https://yongjunmun.github.io/YongJunMun_Resume/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-yongjunmun.github.io-b45309?style=for-the-badge&labelColor=0f172a&logo=github&logoColor=white)](https://yongjunmun.github.io/YongJunMun_Resume/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-yong--jun--mun-334155?style=for-the-badge&labelColor=0f172a&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yong-jun-mun/)
 [![Email](https://img.shields.io/badge/Email-junmun234%40gmail.com-334155?style=for-the-badge&labelColor=0f172a&logo=gmail&logoColor=white)](mailto:junmun234@gmail.com)
 ![Location](https://img.shields.io/badge/Based%20in-Singapore-334155?style=for-the-badge&labelColor=0f172a)
@@ -53,9 +53,10 @@ I turn unfamiliar production systems into repeatable recovery steps, defensible 
 
 <div align="center">
 
-| 50+ | 7 | 3 | 36 |
-| :---: | :---: | :---: | :---: |
-| UAT cases designed and run | live OHV reliability views | controlled equipment OJTIs | Priority&nbsp;1 items in alert workflow |
+![50+ UAT cases designed and run](https://img.shields.io/badge/50%2B-UAT%20cases%20designed%20and%20run-334155?style=for-the-badge&labelColor=b45309)
+![7 live OHV reliability views](https://img.shields.io/badge/7-live%20OHV%20reliability%20views-334155?style=for-the-badge&labelColor=b45309)
+![3 controlled equipment OJTIs](https://img.shields.io/badge/3-controlled%20equipment%20OJTIs-334155?style=for-the-badge&labelColor=b45309)
+![36 Priority 1 items in alert workflow](https://img.shields.io/badge/36-Priority%201%20items%20in%20alert%20workflow-334155?style=for-the-badge&labelColor=b45309)
 
 </div>
 
@@ -71,6 +72,27 @@ I turn unfamiliar production systems into repeatable recovery steps, defensible 
 ---
 
 ## Selected work
+
+<div align="center">
+<table>
+<tr>
+<td width="50%" valign="top">
+<img src="https://raw.githubusercontent.com/yongjunmun/Inverted-Pendulum/main/results/swingup.gif" width="100%" alt="Cart-pole swinging up from hanging and being caught at the upright by LQR">
+<sub><b>Inverted Pendulum</b> · energy swing-up pumps the pole up, LQR catches it at the top</sub>
+</td>
+<td width="50%" valign="top">
+<img src="https://raw.githubusercontent.com/yongjunmun/AMHS-Fleet-Simulator/main/results/fleet_sweep.png" width="100%" alt="Cycle time reaching a minimum at 13 vehicles while throughput stays flat across the sweep">
+<sub><b>AMHS Fleet Simulator</b> · throughput saturates long before the fleet does</sub>
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top">
+<img src="https://raw.githubusercontent.com/yongjunmun/ArUco-AMR-Docking/main/results/docking.png" width="100%" alt="Docking trajectories where solvePnP reaches the dock pose and the known-width estimator misses it">
+<sub><b>ArUco AMR Docking</b> · same controller, two range estimators — <code>solvePnP</code> docks, known-width does not</sub>
+</td>
+</tr>
+</table>
+</div>
 
 Every number below comes from a test suite or a study that lives in the repository — none of it is estimated.
 
