@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/yongjunmun/yongjunmun/main/assets/portrait-dots.png" width="420" alt="Halftone dot rendering of Yong Jun Mun on the coast, shading his eyes against the sun">
+<img src="https://raw.githubusercontent.com/yongjunmun/yongjunmun/main/assets/portrait-pixel.gif" width="432" alt="Pixel-art cartoon of Yong Jun Mun on the coast shading his eyes, with the sea shimmering on a loop">
 
 # Yong Jun Mun
 
