@@ -7,12 +7,38 @@
 Mechatronics Systems undergraduate working where equipment, controls, operations and software meet.<br>
 Currently an Automation Engineer Intern in semiconductor manufacturing — AMHS, OHT/OHV, stocker and feeder systems.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-yongjunmun.github.io-1f6feb?style=for-the-badge&logo=github&logoColor=white)](https://yongjunmun.github.io/YongJunMun_Resume/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-yong--jun--mun-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yong-jun-mun/)
-[![Email](https://img.shields.io/badge/Email-junmun234%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:junmun234@gmail.com)
-![Location](https://img.shields.io/badge/Based%20in-Singapore-2f6f4e?style=for-the-badge)
+[![Portfolio](https://img.shields.io/badge/Portfolio-yongjunmun.github.io-334155?style=for-the-badge&labelColor=0f172a&logo=github&logoColor=white)](https://yongjunmun.github.io/YongJunMun_Resume/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-yong--jun--mun-334155?style=for-the-badge&labelColor=0f172a&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yong-jun-mun/)
+[![Email](https://img.shields.io/badge/Email-junmun234%40gmail.com-334155?style=for-the-badge&labelColor=0f172a&logo=gmail&logoColor=white)](mailto:junmun234@gmail.com)
+![Location](https://img.shields.io/badge/Based%20in-Singapore-334155?style=for-the-badge&labelColor=0f172a)
 
 </div>
+
+---
+
+## Toolkit
+
+![Python](https://img.shields.io/badge/Python-334155?style=flat-square&logo=python&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-334155?style=flat-square&logo=numpy&logoColor=white)
+![C/C++](https://img.shields.io/badge/C%2FC%2B%2B-334155?style=flat-square&logo=cplusplus&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-334155?style=flat-square&logo=powershell&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-334155?style=flat-square&logo=sqlite&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-334155?style=flat-square&logo=opencv&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-334155?style=flat-square&logo=tableau&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-334155?style=flat-square&logo=flask&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-334155?style=flat-square&logo=javascript&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-334155?style=flat-square&logo=githubactions&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-334155?style=flat-square&logo=playwright&logoColor=white)
+![SOLIDWORKS](https://img.shields.io/badge/SOLIDWORKS-334155?style=flat-square&logo=dassaultsystemes&logoColor=white)
+
+| | |
+| :--- | :--- |
+| **Automation systems** | AMHS · ASRS · AMR/AGV · OHT/OHV · digital packing line · stocker · feeder · handler systems |
+| **Testing & reliability** | UAT · FMEA · RCA · exception testing · test-case design · preventive maintenance |
+| **Control & embedded** | PID · LQR · MPC · state-space modelling · queueing theory · EKF · `solvePnP` · RTOS · Arduino · SPI / I²C / GPIO |
+| **Software & data** | Python · NumPy · Flask · PowerShell · JavaScript · C/C++ · SQLite · REST APIs · Tableau · Excel · discrete-event simulation |
+| **Operations tooling** | Fleet Manager · e-WareNavi · MCS · GT SoftGOT2000 · Task Scheduler |
+| **Delivery** | Vendor coordination · OJTIs · operator training · technical handover |
 
 ---
 
@@ -74,32 +100,6 @@ Every number below comes from a test suite or a study that lives in the reposito
 Production work that cannot be published — seven live Tableau OHV alarm and uptime views against a 99% target, an Excel/PowerShell restock workflow with Outlook alerts, and three controlled 12-hour OJTIs — is described on the [portfolio site](https://yongjunmun.github.io/YongJunMun_Resume/).
 
 </details>
-
----
-
-## Toolkit
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![C/C++](https://img.shields.io/badge/C%2FC%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
-![SOLIDWORKS](https://img.shields.io/badge/SOLIDWORKS-E4002B?style=flat-square&logo=dassaultsystemes&logoColor=white)
-
-| | |
-| :--- | :--- |
-| **Automation systems** | AMHS · ASRS · AMR/AGV · OHT/OHV · digital packing line · stocker · feeder · handler systems |
-| **Testing & reliability** | UAT · FMEA · RCA · exception testing · test-case design · preventive maintenance |
-| **Control & embedded** | PID · LQR · MPC · state-space modelling · queueing theory · EKF · `solvePnP` · RTOS · Arduino · SPI / I²C / GPIO |
-| **Software & data** | Python · NumPy · Flask · PowerShell · JavaScript · C/C++ · SQLite · REST APIs · Tableau · Excel · discrete-event simulation |
-| **Operations tooling** | Fleet Manager · e-WareNavi · MCS · GT SoftGOT2000 · Task Scheduler |
-| **Delivery** | Vendor coordination · OJTIs · operator training · technical handover |
 
 ---
 
