@@ -7,7 +7,7 @@
 ### I make automation easier to recover, verify, and trust.
 
 Mechatronics Systems undergraduate working where equipment, controls, operations and software meet.<br>
-Currently an Automation Engineer Intern in semiconductor manufacturing — AMHS, OHT/OHV, stocker and feeder systems.
+Just finished a year as an Automation Engineer Intern in semiconductor manufacturing — AMHS, OHT/OHV, stocker and feeder systems.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-yongjunmun.github.io-b45309?style=for-the-badge&labelColor=0f172a&logo=github&logoColor=white)](https://yongjunmun.github.io/YongJunMun_Resume/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-yong--jun--mun-334155?style=for-the-badge&labelColor=0f172a&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yong-jun-mun/)
@@ -66,10 +66,10 @@ I turn unfamiliar production systems into repeatable recovery steps, defensible 
 
 ## Currently
 
-- **Automation Engineer Intern** — Infineon Technologies Asia Pacific, Singapore · Sep 2025 – Aug 2026
-- **BEng (Hons), Mechatronics Systems** — Singapore Institute of Technology · expected Apr 2027
+- **BEng (Hons), Mechatronics Systems** — Singapore Institute of Technology, graduating Apr 2027
+- **Automation Engineer Intern, completed** — Infineon Technologies Asia Pacific, Singapore · Sep 2025 – Aug 2026
 - **Capstone in progress** — synchronized RGB + LiDAR capture into an indoor digital twin for NVIDIA Isaac Sim
-- **Open to** graduate and early-career roles across automation, controls, test, reliability and industrial software
+- **Available for full-time roles from Apr 2027** — automation, controls, test, reliability and industrial software
 
 ---
 
