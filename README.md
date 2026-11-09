@@ -11,7 +11,6 @@ Just finished a year as an Automation Engineer Intern in semiconductor manufactu
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-yongjunmun.github.io-b45309?style=for-the-badge&labelColor=0f172a&logo=github&logoColor=white)](https://yongjunmun.github.io/YongJunMun_Resume/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-yong--jun--mun-334155?style=for-the-badge&labelColor=0f172a&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yong-jun-mun/)
-[![Email](https://img.shields.io/badge/Email-junmun234%40gmail.com-334155?style=for-the-badge&labelColor=0f172a&logo=gmail&logoColor=white)](mailto:junmun234@gmail.com)
 ![Location](https://img.shields.io/badge/Based%20in-Singapore-334155?style=for-the-badge&labelColor=0f172a)
 
 </div>
