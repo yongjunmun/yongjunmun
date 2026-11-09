@@ -120,6 +120,5 @@ Certified SOLIDWORKS CAD Design Associate (2025) · Google Project Management Pr
 
 ### Let's build systems that fail clearly and recover safely.
 
-[**Portfolio**](https://yongjunmun.github.io/YongJunMun_Resume/) · [**LinkedIn**](https://www.linkedin.com/in/yong-jun-mun/) · [**Email**](mailto:junmun234@gmail.com)
-
+[**Portfolio**](https://yongjunmun.github.io/YongJunMun_Resume/) · [**LinkedIn**](https://www.linkedin.com/in/yong-jun-mun/)
 </div>
